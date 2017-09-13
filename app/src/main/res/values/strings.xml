@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Anagram</string>
+
+    <string name="enter_your_first_text">Enter Your First Text</string>
+    <string name="enter_your_second_text">Enter Your Second Text</string>
+    <string name="is_anagram">Is Anagram?</string>
+    <string name="your_input_is_anagram">Your input are anagrams</string>
+    <string name="your_input_not_anagram">Your input are not anagrams</string>
+    <string name="ok">Ok</string>
+</resources>
